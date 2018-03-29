@@ -57,6 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+# Maven Node Plugin install dir
+node
+
 # Spring .gitignore below
 
 *.java.hsp
@@ -99,3 +102,4 @@ test-output
 atlassian-ide-plugin.xml
 .gradletasknamecache
 
+.vscode
