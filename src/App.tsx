@@ -14,6 +14,9 @@ class App extends React.Component {
         <p className="App-intro">
           To get started, edit <code>src/App.tsx</code> and save to reload.
         </p>
+        <p>
+          Go see a <a href="legacy/index.html">legacy page</a> served up from resources/static.
+        </p>
       </div>
     );
   }
